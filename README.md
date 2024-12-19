@@ -1,5 +1,7 @@
 # Welcome to My GitHub!
 
+![Welcome Image](https://yourimageurl.com/yourphoto.jpg)
+
 Hi there! 👋 Welcome to my GitHub profile.
 
 ## 👨‍💻 About Me: "The INNO_CYBER"
@@ -48,3 +50,8 @@ Thanks for visiting! 🚀
 
 ### ⚡ Fun Fact:
 In my free time, I solve problems on **GeeksforGeeks**, read **tech articles**, and try to break things to make them more secure. 😁
+
+---
+
+![Contribution](https://raw.githubusercontent.com/roychan0317/roychan0317/9e9b51e02fe60e4f7e20a1a8be7b689ab3e23b51/github-contribution-grid-snake.svg)
+
