@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-![Welcome Image](https://yourimageurl.com/yourphoto.jpg)
+![Welcome Image](https://i.imgur.com/hcZN6eY.jpeg)
 
 Hi there! 👋 Welcome to my GitHub profile.
 
