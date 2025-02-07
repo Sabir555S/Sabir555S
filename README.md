@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-![Welcome Image](https://imgur.com/bIrGeZv)
+![Welcome Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dskull%2Bhacker&psig=AOvVaw2X7WFcpFIxp8IBZk_4xRSX&ust=1739004090682000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiPnKuVsYsDFQAAAAAdAAAAABAE)
 
 Hi there! 👋 Welcome to my GitHub profile.
 
