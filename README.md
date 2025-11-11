@@ -116,7 +116,7 @@
   <li><b>Cybersecurity Learning:</b> Tutorials, CTFs, and expert guides for learners.</li>
 </ul>
 <p align="center">
-🔥 Explore my <a href="https://github.com/kashifdev1?tab=pinned">pinned repositories</a>!
+🔥 Explore my <a href="https://github.com/Sabir555S?tab=pinned">pinned repositories</a>!
 </p>
 
 <hr/>
