@@ -116,7 +116,9 @@
   <li><b>Cybersecurity Learning:</b> Tutorials, CTFs, and expert guides for learners.</li>
 </ul>
 <p align="center">
-🔥 Explore my <a href="https://github.com/Sabir555S?tab=pinned">pinned repositories</a>!
+  <a href="https://github.com/Sabir555S">
+    <img src="https://img.shields.io/badge/GitHub-Pinned Repositories-blue?logo=github&style=for-the-badge" alt="GitHub Profile Badge"/>
+  </a>
 </p>
 
 <hr/>
