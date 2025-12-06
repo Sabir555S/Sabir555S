@@ -128,7 +128,7 @@
 <!-- =============================== -->
 <h2 align="center">📈 GitHub Stats & Contribution</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabir555S&show_icons=true&theme=radical" width="400">
+  <img src="https://gprm.itsvg.in/api/stats?username=Sabir555S&theme=radical&show_icons=true" width="400" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabir555S&theme=dracula" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sabir555S&theme=dracula" height="180"/>
 </p>
