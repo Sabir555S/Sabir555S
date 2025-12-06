@@ -128,7 +128,7 @@
 <!-- =============================== -->
 <h2 align="center">📈 GitHub Stats & Contribution</h2>
 <p align="center">
-  <img src="https://gprm.itsvg.in/api/stats?username=Sabir555S&theme=radical&show_icons=true" width="400" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=Sabir555S&label=Profile%20views&color=0e75b6&style=flat" alt="Sabir555S" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabir555S&theme=dracula" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sabir555S&theme=dracula" height="180"/>
 </p>
