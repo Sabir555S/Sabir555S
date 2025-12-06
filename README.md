@@ -129,7 +129,9 @@
 <h2 align="center">📈 GitHub Stats & Contribution</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sabir555S&label=Profile%20views&color=0e75b6&style=flat" alt="Sabir555S" />
+  <hr>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabir555S&theme=dracula" height="180"/>
+  <hr>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sabir555S&theme=dracula" height="180"/>
 </p>
 
