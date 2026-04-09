@@ -1,175 +1,184 @@
-<!-- =============================== -->
-<!--         Cyber Banner            -->
-<!-- =============================== -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/242684770?v=4" alt="Cybersecurity Banner" width="700"/>
-</p>
+<div align="center">
 
-<h1 align="center">👋 Welcome to The INNO_CYBER GitHub!</h1>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=220&section=header&text=Muhammad%20Sabir%20Ali&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20and%20CEO%20%E2%80%94%20INNO%20CYBER&descSize=20&descColor=&descAlignY=58" width="100%"/>
 
-<p align="center">
-  <b>Penetration Testing Expert & Web Developer</b> <br>
-  <b>Founder of <span style="color:#009f6b;">INNO_CYBER</span></b>
-</p>
+<br/>
 
-<hr>
+### `Penetration Tester` &nbsp;·&nbsp; `Full-Stack Developer` &nbsp;·&nbsp; `Cybersecurity Consultant`
 
-<!-- =============================== -->
-<!--        Professional Intro        -->
-<!-- =============================== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/PenTest%20Expert-Ethical%20Hacker-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web%20Development-Full%20Stack-blue?style=flat-square" />
-</p>
+<br/>
 
-<p align="center">
-  I am a seasoned cybersecurity specialist, passionate penetration tester, and full-stack web developer. For the past <b>4+ years</b>, I've focused on protecting businesses, developing high-performance web apps, and enabling innovation for clients worldwide.<br>
-  <b>Currently, I’m proudly leading my own brand, <span style="color:#009f6b;">"The INNO_CYBER"</span>, where I offer cutting-edge cybersecurity solutions and web services.</b>
-</p>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&height=40&lines=Securing+systems+one+audit+at+a+time;Building+secure+and+scalable+web+apps;4%2B+years+in+cybersecurity+and+dev;Founder+of+INNO_CYBER" alt="Typing SVG"/>
 
-<hr>
+<br/><br/>
 
-<!-- =============================== -->
-<!--       Current Focus Section      -->
-<!-- =============================== -->
-<h2 align="center">💡 What I'm Working On</h2>
+<!-- Badges -->
+![Experience](https://img.shields.io/badge/Experience-4%2B_Years-7F77DD?style=for-the-badge&labelColor=1a1a2e)
+![PenTester](https://img.shields.io/badge/Certified-Ethical_Hacker-D85A30?style=for-the-badge&labelColor=1a1a2e)
+![FullStack](https://img.shields.io/badge/Full--Stack-Developer-1D9E75?style=for-the-badge&labelColor=1a1a2e)
+![Status](https://img.shields.io/badge/Status-Open_to_Collaborate-378ADD?style=for-the-badge&labelColor=1a1a2e)
 
-<ul>
-  <li>🔍 Penetration Testing: Uncovering vulnerabilities & securing assets.</li>
-  <li>🖥️ Web Development: Modern, secure & scalable websites.</li>
-  <li>🎓 Mentoring: Guiding aspiring devs & cybersecurity enthusiasts.</li>
-  <li>⛓️ Exploring Blockchain: Building the future of secure, decentralized systems.</li>
-</ul>
+<br/>
 
-<hr>
+![Profile Views](https://komarev.com/ghpvc/?username=Sabir555S&label=Profile+Views&color=7F77DD&style=flat-square)
+&nbsp;
+![Repos](https://img.shields.io/badge/Repos-50%2B-7F77DD?style=flat-square)
+&nbsp;
+![Commits](https://img.shields.io/badge/Commits-4000%2B-1D9E75?style=flat-square)
+&nbsp;
+![Issues](https://img.shields.io/badge/Issues_Solved-200%2B-378ADD?style=flat-square)
 
-<!-- =============================== -->
-<!--           Skills & Tools        -->
-<!-- =============================== -->
-<h2 align="center">🛠️ Languages, Tools & Frameworks</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-PHP-777bb4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/-Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/-Django-092e20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Kali%20Linux-222222?style=for-the-badge&logo=kali-linux">
-  <img src="https://img.shields.io/badge/-Metasploit-2D2D2D?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Burp%20Suite-ff9100?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Wireshark-06b6d4?style=for-the-badge&logo=wireshark">
-  <img src="https://img.shields.io/badge/-Nmap-4781c3?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-OWASP%20ZAP-009f6b?style=for-the-badge">
-</p>
+</div>
 
-<hr>
+<br/>
 
-<!-- =============================== -->
-<!--         Achievements            -->
-<!-- =============================== -->
-<h2 align="center">🏆 Achievements</h2>
-<ul>
-  <li>✔️ Led penetration testing projects for enterprise clients across industries.</li>
-  <li>✔️ Created, deployed & maintained secure web platforms for diverse businesses.</li>
-  <li>✔️ Founded <b>INNO_CYBER</b>: Cybersecurity & web development solutions brand.</li>
-  <li>✔️ Featured on tech blogs and platforms for my contributions to web security.</li>
-</ul>
+## 👤 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Top%20Contributor-2023-orange?style=for-the-badge" alt="Top Contributor">
-  <img src="https://img.shields.io/badge/Public%20Repos-50%2B-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Commits-4000%2B-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Forks-50%2B-important?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Issues%20Solved-200%2B-9cf?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Years%20Experience-4%2B-yellow?style=for-the-badge">
-</p>
+I am a cybersecurity specialist and full-stack web developer with **4+ years** of hands-on experience. I founded **INNO_CYBER** to deliver professional penetration testing, web development, and security consulting under one roof — helping businesses stay protected while building digital products that scale.
 
-<hr>
+> *"I don't just find vulnerabilities — I help you understand them, fix them, and prevent them."*
 
-<!-- =============================== -->
-<!--            Projects             -->
-<!-- =============================== -->
-<h2 align="center">🧩 Featured Projects</h2>
-<ul>
-  <li><b>Penetration Testing Tools:</b> Scripts & utilities for cyber audits.</li>
-  <li><b>Web Dev Projects:</b> From static landing pages to secure SaaS web apps.</li>
-  <li><b>Cybersecurity Learning:</b> Tutorials, CTFs, and expert guides for learners.</li>
-</ul>
-<p align="center">
-  <a href="https://github.com/Sabir555S">
-    <img src="https://img.shields.io/badge/GitHub-Pinned Repositories-blue?logo=github&style=for-the-badge" alt="GitHub Profile Badge"/>
-  </a>
-</p>
+---
 
-<hr/>
+## 🎯 What I Do
 
-<!-- =============================== -->
-<!--      GitHub Stats & Activity    -->
-<!-- =============================== -->
-<h2 align="center">📈 GitHub Stats & Contribution</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sabir555S&label=Profile%20views&color=0e75b6&style=flat" alt="Sabir555S" />
-  <hr>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabir555S&theme=dracula" height="180"/>
-  <hr>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sabir555S&theme=dracula" height="180"/>
-</p>
+| | Area | Description |
+|---|--------|-------------|
+| 🔐 | **Penetration Testing** | Web app, API, and network audits following OWASP Top 10. Full reports with actionable remediation steps. |
+| 💻 | **Full-Stack Development** | From landing pages to production SaaS platforms — secure, scalable, and maintainable. |
+| 🛡️ | **Security Consulting** | Risk assessments, hardening guides, and team security training. |
+| 📚 | **Open Source & Education** | Tools, CTF write-ups, and guides for the next generation of security professionals. |
 
-<hr>
+---
 
-<!-- =============================== -->
-<!--     Fun & Interactive Zone      -->
-<!-- =============================== -->
-<h2 align="center">🎉 Fun Zone: Cyber Laughs & Animations</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Animated Hacker GIF" width="250"/>
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="400"/>
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <b>😂 Cybersecurity Joke:</b><br>
-  <sub><i>"Why do cybersecurity experts love coffee? Because it keeps them awake for zero-day threats!"</i></sub>
-</p>
+<div align="center">
 
-<hr>
+**Security & Exploitation**<br/>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2D2D2D?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4781C3?style=flat-square&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-009f6b?style=flat-square&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logoColor=white)
 
-<!-- =============================== -->
-<!--         Contact Section         -->
-<!-- =============================== -->
-<h2 align="center">📢 Let's Connect</h2>
-<p align="center">
-  <a href="mailto:lionh2682@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-sabir-ali-1b51a3333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Sabir%20Ali-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://innoocyber.free.nf/"><img src="https://img.shields.io/badge/Portfolio-INNO_CYBER-success?style=for-the-badge&logo=google-chrome" alt="Portfolio"/></a>
-</p>
+<br/>
 
-<p align="center">
-  <b>Feel free to explore my work and reach out for collaborations!</b><br>
-  Let's innovate and secure the web—together. 🚀
-</p>
+**Frontend Development**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<hr>
+<br/>
 
-<p align="right">
-  <sub><i>Truly Regards: <b>INNO CYBER</b> x <b>Muhammad Sabir Ali</b></i></sub>
-</p>
+**Backend & Architecture**<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+<br/>
+
+**Infrastructure, Cloud & Databases**<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Highlights & Featured Work
+
+- **🏢 Founded INNO_CYBER** — a cybersecurity and web development brand serving enterprise and startup clients worldwide.
+- **🔍 Led enterprise penetration testing** across finance, e-commerce, and SaaS industries — zero unresolved critical findings.
+- **🛠️ Published open-source security tools** and educational resources used by hundreds of security learners globally.
+- **🏆 Recognized as Top Contributor (2023)** and featured on tech platforms for contributions to web security.
+- **⛓️ Currently exploring** blockchain security, smart contract auditing, and AI-assisted penetration testing.
+
+**Notable Projects:**
+- 🔧 **Penetration Testing Toolkit** — Automated scripts and utilities for vulnerability discovery and professional reporting.
+- 🌐 **Secure SaaS Boilerplate** — A production-ready full-stack template with built-in OWASP security best practices.
+- 📖 **CTF Write-ups & Labs** — Detailed walkthroughs and educational guides for the security community.
+
+---
+
+## 📌 Currently Working On
+
+```text
+🔐  Penetration Testing     ████████████░░░░░   55%
+💻  Web Development         ████████░░░░░░░░░   40%
+⛓️  Blockchain Security     ██░░░░░░░░░░░░░░░    5%
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-lionh2682%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lionh2682@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Sabir_Ali-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sabir-ali-1b51a3333)
+[![Portfolio](https://img.shields.io/badge/Portfolio-INNO_CYBER-1D9E75?style=flat-square&logo=google-chrome&logoColor=white)](https://innoocyber.free.nf/)
+[![GitHub](https://img.shields.io/badge/GitHub-Sabir555S-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sabir555S)
+
+<br/>
+
+**🟢 Available for new projects and long-term collaborations.**
+
+</div>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+**📋 Profile Summary**
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabir555S&theme=tokyonight" width="100%"/>
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sabir555S&theme=tokyonight" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sabir555S&theme=tokyonight" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sabir555S&theme=tokyonight" height="165"/>
+
+<br/><br/>
+
+**📈 My Contributions**
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Sabir555S&theme=tokyonight&hide_border=true" width="65%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabir555S&theme=tokyo-night&hide_border=true&area=true&area_color=7F77DD" width="100%"/>
+
+<br/><br/>
+
+**🐍 Contribution Snake**
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution grid snake animation" src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<br/><br/>
+
+<!-- FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=100&section=footer&text=Let%27s%20secure%20the%20web%20together&fontSize=16&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+</div>
