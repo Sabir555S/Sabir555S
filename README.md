@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=220&section=header&text=Muhammad%20Sabir%20Ali&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20and%20CEO%20%E2%80%94%20INNO%20CYBER&descSize=20&descColor=&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=220&section=header&text=Muhammad%20Sabir%20Ali&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20and%20CEO%20%of%20INNO%20CYBER&descSize=20&descColor=&descAlignY=58" width="100%"/>
 
 <br/>
 
@@ -36,7 +36,7 @@
 
 ## 👤 About Me
 
-I am a cybersecurity specialist and full-stack web developer with **4+ years** of hands-on experience. I founded **INNO_CYBER** to deliver professional penetration testing, web development, and security consulting under one roof — helping businesses stay protected while building digital products that scale.
+I am a cybersecurity specialist and full-stack web developer with **4+ years** of hands-on experience. I founded **INNO CYBER** to deliver professional penetration testing, web development, and security consulting under one roof — helping businesses stay protected while building digital products that scale.
 
 > *"I don't just find vulnerabilities — I help you understand them, fix them, and prevent them."*
 
@@ -101,7 +101,7 @@ I am a cybersecurity specialist and full-stack web developer with **4+ years** o
 
 ## 🏆 Highlights & Featured Work
 
-- **🏢 Founded INNO_CYBER** — a cybersecurity and web development brand serving enterprise and startup clients worldwide.
+- **🏢 Founded INNO CYBER** — a cybersecurity and web development brand serving enterprise and startup clients worldwide.
 - **🔍 Led enterprise penetration testing** across finance, e-commerce, and SaaS industries — zero unresolved critical findings.
 - **🛠️ Published open-source security tools** and educational resources used by hundreds of security learners globally.
 - **🏆 Recognized as Top Contributor (2023)** and featured on tech platforms for contributions to web security.
