@@ -24,11 +24,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sabir555S&label=Profile+Views&color=7F77DD&style=flat-square)
 &nbsp;
-![Repos](https://img.shields.io/badge/Repos-50%2B-7F77DD?style=flat-square)
+![Repos](https://img.shields.io/badge/Repos-28%2B-7F77DD?style=flat-square)
 &nbsp;
-![Commits](https://img.shields.io/badge/Commits-4000%2B-1D9E75?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits-40%2B-1D9E75?style=flat-square)
 &nbsp;
-![Issues](https://img.shields.io/badge/Issues_Solved-200%2B-378ADD?style=flat-square)
+![Issues](https://img.shields.io/badge/Issues_Solved-20%2B-378ADD?style=flat-square)
 
 </div>
 
